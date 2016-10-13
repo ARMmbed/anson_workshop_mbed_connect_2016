@@ -5,7 +5,7 @@ Bluemix Dashboard - https://console.ng.bluemix.net/?direct=classic
 
 Mbed device USB driver - https://developer.mbed.org/media/downloads/drivers/mbedWinSerial_16466.exe
 
-Putty (Windows): - https://developer.mbed.org/users/sam_grove/code/open_mbed/archive/736ec17a4e05.zip
+Putty (Windows): - http://www.putty.org/
 
 CoolTerm (Windows): - http://freeware.the-meiers.org/CoolTerm_Win.zip 
 
