@@ -1,9 +1,9 @@
 # anson_workshop_mbed_connect_2016
 Links to Workshop presentation material
 
-Bluemix Dashboard - https://console.ng.bluemix.net/?direct=classic
+Bluemix Dashboard - https://console.ng.bluemix.net/
 
-Mbed device USB driver - https://developer.mbed.org/media/downloads/drivers/mbedWinSerial_16466.exe
+(Windows) Mbed device USB driver - https://developer.mbed.org/media/downloads/drivers/mbedWinSerial_16466.exe
 
 Putty (Windows): - http://www.putty.org/
 
