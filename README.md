@@ -11,7 +11,9 @@ Links:
 Bluemix Dashboard - https://console.ng.bluemix.net/
 
 (Windows) Mbed device USB driver - https://developer.mbed.org/media/downloads/drivers/mbedWinSerial_16466.exe
+
     - Windows 10 does NOT require this driver
+
     - Windows 10 Users please read: https://developer.mbed.org/questions/60888/Windows-10-USB-mount-doesnt-work-correct/
 
 Putty (Windows): - http://www.putty.org/
