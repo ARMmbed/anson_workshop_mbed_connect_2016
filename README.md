@@ -1,8 +1,9 @@
-# anson_workshop_ibm_watson_2016
+# anson_workshop_mbed_connect_2016
 Bridge workshop connecting IBM Watson IoT with mbed Connector - 2016
 
 Updates: 
 
+- Jun 8, 2017 - Updated workshop to v1.5 (misc updates)
 - Mar 17, 2017 - Updated workshop to v1.4 (updated Bluemix UI images)
 - Feb 22, 2017 - Updated workshop to v1.3 (new Bluemix UI images)
 
