@@ -3,6 +3,7 @@ Bridge workshop connecting IBM Watson IoT with mbed Connector - 2016
 
 Updates: 
 
+- Sep 25, 2017 - Updated workshop to v1.6 (mbed links, bluemix console links)
 - Jun 8, 2017 - Updated workshop to v1.5 (misc updates)
 - Mar 17, 2017 - Updated workshop to v1.4 (updated Bluemix UI images)
 - Feb 22, 2017 - Updated workshop to v1.3 (new Bluemix UI images)
@@ -10,9 +11,9 @@ Updates:
 
 Links:
 
-Bluemix Dashboard - https://console.ng.bluemix.net/
+Bluemix Dashboard - https://console.bluemix.net/
 
-(Windows) Mbed device USB driver - https://developer.mbed.org/media/downloads/drivers/mbedWinSerial_16466.exe
+(Windows) Mbed device USB driver - https://os.mbed.com/media/downloads/drivers/mbedWinSerial_16466.exe
 
 Putty (Windows): - http://www.putty.org/
 
@@ -26,7 +27,7 @@ Chrome Browser Installer – https://chrome.google.com
 
 Firefox Browser Installer - https://www.mozilla.org/firefox 
 
-Mbed developer account: https://developer.mbed.org
+Mbed developer account: https://os.mbed.com
 
 Mbed Connector account: https://connector.mbed.com
 
